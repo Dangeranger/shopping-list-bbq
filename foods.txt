@@ -6,3 +6,7 @@ chips
 iced tea
 fruit punch
 cesaer salad
+chicken
+fish
+beef
+tofu
